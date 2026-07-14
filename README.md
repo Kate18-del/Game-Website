@@ -30,7 +30,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/game-studio.git
+   git clone https://github.com/ваш-username/Game-Website.git
 Откройте папку проекта в VS Code
 
 Установите расширение Live Server
